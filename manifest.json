@@ -54,5 +54,5 @@
   "description": "Fake English Premier League Website",
   "background_color": "#38003c",
   "theme_color": "#38003c",
-  "Scope": "/"
+  "scope": "/"
 }
